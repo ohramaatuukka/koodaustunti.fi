@@ -3,7 +3,7 @@ highlighter: rouge
 permalink: pretty
 exclude: [Gemfile*]
 
-root_url: http://koodaustunti.fi
+root_url: https://github.com/ohramaatuukka/koodaustunti.fi
 viikko: ''
 osallistujatavoite: 10000
 facebook: https://www.facebook.com/events/552063884884177/
